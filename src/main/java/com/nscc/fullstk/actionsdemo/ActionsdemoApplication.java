@@ -10,4 +10,8 @@ public class ActionsdemoApplication {
 		SpringApplication.run(ActionsdemoApplication.class, args);
 	}
 
+	public int sum(int valOne, int valTwo){
+		return valOne-valTwo;
+	}
+
 }
