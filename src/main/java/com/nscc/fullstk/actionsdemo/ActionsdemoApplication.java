@@ -11,7 +11,7 @@ public class ActionsdemoApplication {
 	}
 
 	public int sum(int valOne, int valTwo){
-		return valOne-valTwo;
+		return valOne+valTwo;
 	}
 
 }
